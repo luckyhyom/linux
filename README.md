@@ -190,3 +190,8 @@ ubuntu에서도 다양한 버전이 존재함..
 cd / // 루트 폴더
 cd ~ // 사용자 계정 폴더
 ```
+루트 계정으로 로그인. 환경 변수 초기화 됨
+[참고](https://storycompiler.tistory.com/44)
+```tsx
+su - // -l or --login root
+```
